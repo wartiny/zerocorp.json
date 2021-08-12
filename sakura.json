@@ -18,7 +18,7 @@
     "mopub_inter": "24534e1901884e398f1253216226017e",
     "applovin_banner": "db4d5e8718b97d78",
     "applovin_inter": "518cd97722c60b52",
-    "packagename": "com.aliendroid.alienguide"
+    "packagename": "com.sakuraschoolsimulator.guidewalkthrough"
   }
 ],
   "More":
@@ -54,7 +54,7 @@
 
   "Data": [
         {
-      "id": 1,
+      "id": 2,
       "name_category": "Easy",
       "title": "Tips and Tricks",
       "image": "https://cdn.tarskitheme.com/screens/jp.garud.ssimulator-1.png",
@@ -62,7 +62,7 @@
       "link": "https://wartiny.github.io/baru/tips%20and%20trick.html"
     },
         {
-      "id": 1,
+      "id": 3,
       "name_category": "Easy",
       "title": "Making friends",
       "image": "https://cdn.androidcrew.com/headers/jp.garud.ssimulator-header.png",
@@ -70,7 +70,7 @@
       "link": "https://wartiny.github.io/baru/makingfriend.html"
     },
         {
-      "id": 1,
+      "id": 4,
       "name_category": "Easy",
       "title": "Earning money",
       "image": "https://i.ytimg.com/vi/eEmR7NtmZBs/maxresdefault.jpg",
@@ -78,7 +78,7 @@
       "link": "https://wartiny.github.io/baru/earningmoney.html"
     },
         {
-      "id": 1,
+      "id": 5,
       "name_category": "Easy",
       "title": "Making an NPC your lover",
       "image": "https://gamingonphone.com/wp-content/uploads/2021/02/npc-lover.jpg",
@@ -86,7 +86,7 @@
       "link": "https://wartiny.github.io/baru/making%20npc.html"
     },
         {
-      "id": 1,
+      "id": 6,
       "name_category": "Easy",
       "title": "Escaping the police without taking damage",
       "image": "https://i.pinimg.com/originals/ec/d3/a0/ecd3a0203173e5ce0c595f47671947b0.jpg",
@@ -94,7 +94,7 @@
       "link": "https://wartiny.github.io/baru/escpaingpolice.html"
     },
     {
-      "id": 1,
+      "id": 7,
       "name_category": "Easy",
       "title": "Earn Money from NPC",
       "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
@@ -102,7 +102,7 @@
       "link": "https://wartiny.github.io/baru/earn%20money.html"
     },
     {
-      "id": 2,
+      "id": 8,
       "name_category": "Easy",
       "title": "Complete missions at the given designated times",
       "image": "https://texno.id/wp-content/uploads/2021/01/Permainan-Sakura-School-Simulator-Bisa-Menemukan-Pacar-Anda-1.jpg",
@@ -110,7 +110,7 @@
       "link": "https://wartiny.github.io/baru/complete-mission.html"
     },
     {
-      "id": 3,
+      "id": 9,
       "name_category": "Easy",
       "title": "Defeat the leader of the Yakuza",
       "image": "https://gamingonphone.com/wp-content/uploads/2021/02/yakuza.jpg",
