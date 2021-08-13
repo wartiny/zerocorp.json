@@ -2,7 +2,7 @@
   "Ads": [
   {
    "select_ads": "ADMOB",
-    "select_backup_ads": "",
+    "select_backup_ads": "APPLOVIN",
     "backup_mode": "0",
     "status_app": "0",
     "link_redirect": "https://",
@@ -16,8 +16,8 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "db4d5e8718b97d78",
-    "applovin_inter": "518cd97722c60b52",
+    "applovin_banner": "06006441ca3e5106",
+    "applovin_inter": "c2c62b641b8ab6fe",
     "packagename": "com.sakuraschoolsimulator.guidewalkthrough"
   }
 ],
