@@ -2,15 +2,15 @@
   "Ads": [
   {
    "select_ads": "ADMOB",
-    "select_backup_ads": "APPLOVIN",
-    "backup_mode": "0",
+    "select_backup_ads": "STARTAPP",
+    "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1003836792919645/5308414531",
     "admob_nativeid": "ca-app-pub-1003836792919645/4758035601",
     "admob_openid": "ca-app-pub-1003836792919645/5308414531",
     "interval_intertitial": 1,
-    "startappid": "201669628",
+    "startappid": "207458214",
     "fan_inter": "YOUR_PLACEMENT_ID",
     "fan_banner_native": "YOUR_PLACEMENT_ID",
     "fan_banner": "YOUR_PLACEMENT_ID",
