@@ -1,0 +1,88 @@
+{
+  "Ads": [
+  {
+   "select_ads": "FACEBOOK",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "interval_intertitial": 1,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "packagename": "com.daftarsim.perpanjangsimonline"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],  
+"Categories": [
+    {
+      "id": 1,
+      "name_category": "SIM Online",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "SIM Online",
+      "title": "Via Aplikasi",
+      "image": "https://media.pricebook.co.id/article/5928fa6e150ba0c51d6d41f4/5928fa6e150ba0c51d6d41f4_1613049981.jpg",
+      "description": "Perpanjang Via Aplikasi Mobile",
+      "link": "https://darwindroid.github.io/gambar/viaaplikasi.html"
+    },
+    {
+      "id": 2,
+      "name_category": "SIM Online",
+      "title": "Perpanjang Via Website",
+      "image": "https://s.garasi.id/c1200x675/q99/article/e01ebd45-4bda-4c97-ae5a-1ae0208d79ff.jpeg",
+      "description": "Cara Perpanjang Via Website",
+      "link": "https://darwindroid.github.io/gambar/vaiwebsite.html"
+    },
+    {
+      "id": 3,
+      "name_category": "SIM Online",
+      "title": "Dokumen",
+      "image": "https://i.ytimg.com/vi/Oi4tpEVSH8Y/maxresdefault.jpg",
+      "description": "Dokumen Yang harus dipersiapkan",
+      "link": "https://darwindroid.github.io/gambar/dokumen.html"
+    },
+    {
+      "id": 4,
+      "name_category": "SIM Online",
+      "title": "Syarat dan Ketentuan",
+      "image": "https://www.kba.one/files/images/20210414-6073deeb1c726.jpg",
+      "description": "Syarat dan Ketentuan Perpanjang sim online",
+      "link": "https://darwindroid.github.io/gambar/ketentuan.html"
+    }
+  ]
+}
