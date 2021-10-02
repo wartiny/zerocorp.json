@@ -3,12 +3,12 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -86,7 +86,7 @@
       "title": "Mobile Legend Update",
       "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
       "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_2.html"
+      "link": "https://wartiny.github.io/baru/beginnerquest1.html"
     }
   ]
 }
