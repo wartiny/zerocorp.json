@@ -67,26 +67,34 @@
     {
       "id": 1,
       "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_1.html"
+      "title": "Vanilla Berry Protein Smoothie Recipe",
+      "image": "https://user-images.githubusercontent.com/63693514/99809150-75f31e00-2b74-11eb-98c6-56637cf8cc54.jpg",
+      "description": "Fresh Vanilla Berry Protein Smoothie",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/protein4.html"
     },
     {
       "id": 2,
       "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p><img alt=\"\" src=\"https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg\" style=\"height:360px; width:640px\" /></p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
+      "title": "Cinnamon Roll Shake recipe",
+      "image": "https://user-images.githubusercontent.com/63693514/99773705-686f7100-2b3f-11eb-91eb-0d9549080201.jpg",
+      "description": "Awesome Cinnamon Roll Shake",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/Protein3.html"
     },
     {
       "id": 3,
-      "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_2.html"
+      "name_category": "Easy",
+      "title": "Peanut Butter Chocolate Protein Shake",
+      "image": "https://user-images.githubusercontent.com/63693514/99772791-019d8800-2b3e-11eb-8c87-cc228458a315.jpg",
+      "description": "Lets Try Peanut Butter Chocolate Protein Shake Recipe",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/protein2.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Banana Protein Shake Recipe",
+      "image": "https://user-images.githubusercontent.com/63693514/99773050-71137780-2b3e-11eb-9cef-54a6596715d2.jpg",
+      "description": "Did you know an average banana contains 3% of your daily value of protein?",
+      "link": "https://raw.githubusercontent.com/darwindroid/gambar/main/protein1.html"
     }
   ]
 }
