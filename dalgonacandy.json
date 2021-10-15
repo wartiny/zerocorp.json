@@ -70,23 +70,23 @@
       "title": "Food List in Game of Squid",
       "image": "https://i1.wp.com/giaallana.com/wp-content/uploads/2021/09/giaallana.com-squid-game-via-netflix.jpg",
       "description": "Food List in Game of Squid",
-      "link": "https://www.thesundaily.my/binrepository/ramen-wdg_1936143_20211007111758.jpg"
+      "link": "https://wartiny.github.io/baru/foodlist.html"
     },
     {
       "id": 2,
-      "name_category": "Easy",
-      "title": "Dalgona Candy History",
-      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/07/14/0/FNK_Dalgona-Candy_H2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1626288597808.jpeg",
-      "description": "History of Dalgona Candy",
-      "link": "https://wartiny.github.io/baru/dalgona%20candy%20history.html"
-    },
-    {
-      "id": 3,
       "name_category": "Easy",
       "title": "Dalgona Candy Recipe",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-dalgona-squid-game-candy-1634228465.jpg",
       "description": "How to make Dalgona Candy",
       "link": "https://wartiny.github.io/baru/dalgona%20candy%20recipe.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Dalgona Candy History",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/07/14/0/FNK_Dalgona-Candy_H2_s4x3.jpg.rend.hgtvcom.616.462.suffix/1626288597808.jpeg",
+      "description": "History of Dalgona Candy",
+      "link": "https://wartiny.github.io/baru/dalgona%20candy%20history.html"
     }
   ]
 }
