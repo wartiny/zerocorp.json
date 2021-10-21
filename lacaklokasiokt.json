@@ -1,0 +1,100 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Lacak Lokasi WA dengan G Maps",
+      "image": "https://asset.kompas.com/crops/D4yXrKCMTXWpJWKmEihQvTZsbdE=/0x0:1145x763/750x500/data/photo/2019/12/11/5df0d5da3b505.jpeg",
+      "description": "Cara Lacak Lokasi WA dengan G Maps",
+      "link": "https://darwindroid.github.io/gambar/hptanpaplikasi.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Melacak nomor HP tanpa aplikasi",
+      "image": "https://cdn1-production-images-kly.akamaized.net/-lBjY4Fz75vzhlDBrEbaQdc7aZs=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2715869/original/030899800_1548755399-pixavay_lost_phone.jpg",
+      "description": "Cara Melacak nomor HP tanpa aplikasi",
+      "link": "https://darwindroid.github.io/gambar/gmaps.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Lacak WA dengan HLR Lookup",
+      "image": "https://1.bp.blogspot.com/-b0xt0OsHDew/X-LbgulSv0I/AAAAAAAACis/5p99tMMJ_uMt92I4osA1yScOEbtdHzPIACLcBGAsYHQ/s640/HLR-Lookup.jpg",
+      "description": "Cara Lacak WA dengan HLR Lookup",
+      "link": "https://darwindroid.github.io/gambar/dengan%20HLR%20Lookup.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Lacak WA dengan Live Location",
+      "image": "https://i0.wp.com/www.kabargames.id/wp-content/uploads/2017/10/WhatsApp-Live-Location.jpg",
+      "description": "Cara Lacak WA dengan Live Location",
+      "link": "https://darwindroid.github.io/gambar/Live%20Location%20pada%20WhatsApp.html"
+    }
+  ]
+}
