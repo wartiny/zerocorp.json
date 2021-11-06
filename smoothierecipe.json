@@ -68,7 +68,7 @@
       "id": 1,
       "name_category": "Easy",
       "title": "Peanut Butter Banana Smoothie",
-      "image": "https://wartiny.github.io/baru/banana.html",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peanut-butter-banana-smoothie-1521645473.jpg",
       "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
       "link": "https://wartiny.github.io/baru/peanutwater.html"
     },
@@ -114,14 +114,6 @@
     },
     {
       "id": 7,
-      "name_category": "Medium",
-      "title": "Tropical Smoothie for yout Health",
-      "image": "https://www.bakemag.com/ext/resources/images/2020/5/TropicalSmoothieCafe.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
-      "link": "https://wartiny.github.io/baru/ts%20for%20yourhealth.html"
-    },
-    {
-      "id": 8,
       "name_category": "Medium",
       "title": "What is Smoothies?",
       "image": "https://www.bakemag.com/ext/resources/images/2020/6/TropicalSmoothieCafe_SummerSmoothies.jpg",
