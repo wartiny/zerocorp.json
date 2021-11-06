@@ -67,9 +67,9 @@
     {
       "id": 1,
       "name_category": "Easy",
-      "title": "Peanut Butter Banana Smoothie",
+      "title": "Peanut Butter Banana Smoothie Recipe",
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peanut-butter-banana-smoothie-1521645473.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
+      "description": "Healthy Peanut Butter Banana Smoothie Recipe",
       "link": "https://wartiny.github.io/baru/peanutwater.html"
     },
     {
@@ -77,7 +77,7 @@
       "name_category": "Easy",
       "title": "Green Smoothie Recipe",
       "image": "https://cdn.okemom.com/wp-content/uploads/2021/03/17135715/1-3-smooties.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
+      "description": "Perfect Green Smoothie Recipe",
       "link": "https://wartiny.github.io/baru/green.html"
     },
     {
@@ -85,7 +85,7 @@
       "name_category": "Medium",
       "title": "Avocado Smoothie Recipe",
       "image": "http://soulofjakarta.com/images-artikel/besar/1912-Milk%20and%20Avocado%20Smoothie%20copy.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "description": "Best Avocado Smoothie Recipe",
       "link": "https://wartiny.github.io/baru/avocado.html"
     },
     {
@@ -93,7 +93,7 @@
       "name_category": "Medium",
       "title": "Strawberry Smoothie Recipe",
       "image": "https://cosmopolitanfm.com/wp-content/uploads/2017/09/strawberry_lemonade_smoothie_5-750x500.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "description": "Simple Strawberry Smoothie Recipe",
       "link": "https://wartiny.github.io/baru/strawberry.html"
     },
     {
@@ -101,15 +101,15 @@
       "name_category": "Medium",
       "title": "Banana Smoothie Recipe",
       "image": "https://cdn.idntimes.com/content-images/community/2018/05/banana-smoothie-22ce883c9404e0b60f103d16bd5a0157_600x400.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
-      "link": "https://www.thespruceeats.com/thmb/RTH5cMhDMvK61a4okKEUqneMtxU=/3909x2601/filters:fill(auto,1)/banana-smoothie-recipes-759606-hero-01-d2abaa79f3204030a0ec0a8940456acc.jpg"
+      "description": "Recomended Banana Smoothie Recipe",
+      "link": "https://wartiny.github.io/baru/banana.html"
     },
     {
       "id": 6,
       "name_category": "Medium",
       "title": "Mango Smoothie Recipe",
       "image": "https://mymilk.com/uploads/Mango%20Smoothies%20Susu%20UHT%2C%20Segar%20dan%20Sehat.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "description": "Easy Mango Smoothie Recipe",
       "link": "https://wartiny.github.io/baru/mango.html"
     },
     {
