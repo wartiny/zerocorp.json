@@ -2,13 +2,13 @@
   "Ads": [
   {
    "select_ads": "ADMOB",
-    "select_backup_ads": "",
+    "select_backup_ads": "APPLOVIN-D",
     "backup_mode": "0",
     "status_app": "0",
     "link_redirect": "https://",
-    "admob_interid": "ca-app-pub-1677915521657375/9519985656",
+    "admob_interid": "ca-app-pub-1677915521657375/8280688427",
     "admob_nativeid": "ca-app-pub-1677915521657375/8944436436",
-    "admob_openid": "ca-app-pub-1677915521657375/9519985656",
+    "admob_openid": "ca-app-pub-1677915521657375/1032753793",
     "interval_intertitial": 1,
     "startappid": "201669628",
     "fan_inter": "YOUR_PLACEMENT_ID",
