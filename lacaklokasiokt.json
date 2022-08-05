@@ -24,21 +24,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Cara Lacak Lokasi WA dan No HP",
+      "image":"https://play-lh.googleusercontent.com/WO5x_9QaggvFHNm2wSA-69FhgU5JZ9WR5T1NEDRXoaqo4HuFj-PgDcAKRHr6if02hw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.lacaknohp.caralacaklokasiwa"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Cek Saldo BPJS Ketenagakerjaan",
+      "image":"https://play-lh.googleusercontent.com/o6OqbCuS7GmRlrR5AS-gx-TIOtL5HkB0cR4rxB-deo36B6VKKDeWczOnIxBSugVbEMxi=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.jhtonline.ceksaldobpjsketenagakerjaan"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Couple Anime Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/q3VZslWJqueERdfW15fIg4ojR7m0QCNl6GU_-CAxABHGhi3SASJtf_w9KkjB09DbeEA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.lovestory.couplewallpaper"
     }
   ],
 
@@ -47,18 +47,6 @@
       "id": 1,
       "name_category": "Easy",
       "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Medium",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Hard",
-      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
 
     }
   ],
